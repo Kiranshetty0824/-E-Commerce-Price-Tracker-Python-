@@ -12,6 +12,7 @@ CSV_FILE = "price_history.csv"
 TARGET_PRICE = 300  # Alert if price drops below this
 # --------------------------
 
+
 # Fetch product page
 response = requests.get(URL, headers=HEADERS)
 soup = BeautifulSoup(response.content, "html.parser")
