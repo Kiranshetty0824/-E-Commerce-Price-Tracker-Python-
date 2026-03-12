@@ -21,6 +21,7 @@ title = soup.find("h4", class_="title").get_text(strip=True)
 price_str = soup.find("h4", class_="price").get_text(strip=True).replace("$", "")
 price = float(price_str)
 
+
 # Timestamp
 date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
