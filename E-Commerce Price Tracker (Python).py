@@ -36,6 +36,7 @@ print(f"Current Price: ${price}")
 # Save to CSV
 data = pd.DataFrame([[date, price]], columns=["Date", "Price"])
 
+
 if os.path.exists(CSV_FILE):
     data.to_csv(CSV_FILE, mode='a', header=False, index=False)
 else:
