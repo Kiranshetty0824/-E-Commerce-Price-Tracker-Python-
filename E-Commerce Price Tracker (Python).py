@@ -42,6 +42,7 @@ if os.path.exists(CSV_FILE):
 else:
     data.to_csv(CSV_FILE, index=False)
 
+
 # Load full history and plot
 df = pd.read_csv(CSV_FILE)
 df['Date'] = pd.to_datetime(df['Date'])
