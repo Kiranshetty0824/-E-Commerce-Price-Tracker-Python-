@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import os
 
-
- 
 # -------- SETTINGS --------
 URL = "https://webscraper.io/test-sites/e-commerce/static/product/569"  # Demo product URL
 HEADERS = {"User-Agent": "Mozilla/5.0"}
