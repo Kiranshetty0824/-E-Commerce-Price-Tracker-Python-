@@ -56,6 +56,8 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
+
+
 # Alert if price below threshold
 if price < TARGET_PRICE:
     print("🚨 Price Drop Alert! 🚨")
