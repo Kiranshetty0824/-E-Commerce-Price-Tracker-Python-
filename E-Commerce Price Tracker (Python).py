@@ -1,9 +1,11 @@
-     import requests
+import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 import os
+
+
 
 # -------- SETTINGS --------
 URL = "https://webscraper.io/test-sites/e-commerce/static/product/569"  # Demo product URL
