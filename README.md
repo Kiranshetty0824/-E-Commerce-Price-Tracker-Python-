@@ -14,7 +14,7 @@ A simple Python script that tracks the price of a product from an e-commerce sit
 - Visualizes price trends with Matplotlib
 - Prints a price drop alert if conditions are met
 
-## 🔧 Requirements
+## 🔧 Requirements  
 
 Make sure you have Python 3 installed. Install the required Python libraries:
 
