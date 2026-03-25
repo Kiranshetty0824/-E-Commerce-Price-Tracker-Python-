@@ -28,6 +28,7 @@ price = float(price_str)
 #Timestamp
 
 
+
 # Timestamp
 date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
