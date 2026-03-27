@@ -65,8 +65,6 @@ plt.show()
 
 
 
-
-
 # Alert if price below threshold
 if price < TARGET_PRICE:
     print("🚨 Price Drop Alert! 🚨")
