@@ -36,6 +36,7 @@ date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 print(f"Product: {title}")
 print(f"Current Price: ${price}")
 
+
 # Save to CSV
 data = pd.DataFrame([[date, price]], columns=["Date", "Price"])
 
