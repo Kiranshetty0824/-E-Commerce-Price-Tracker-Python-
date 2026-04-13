@@ -69,3 +69,4 @@ if price < TARGET_PRICE:
     print("🚨 Price Drop Alert! 🚨")
 else:
     print("No alert. Price is above your target.")
+
