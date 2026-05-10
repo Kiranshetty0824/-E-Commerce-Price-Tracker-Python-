@@ -6,7 +6,7 @@
 
 A simple Python script that tracks the price of a product from an e-commerce site, logs the price history to a CSV file, and generates a price trend graph. An alert is printed if the price drops below a specified threshold.
 
-## 📌 Features
+## 📌 Features 
 
 - Web scrapes product title and price
 - Stores historical prices in a CSV file
