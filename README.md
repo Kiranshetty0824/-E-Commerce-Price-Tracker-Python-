@@ -1,4 +1,4 @@
-       bd   #  -E-Commerce-Price-Tracker-Python-
+        #  -E-Commerce-Price-Tracker-Python-
    E-Commerce Price Tracker (Python)
    
 ✅ README.md – Price Tracker
