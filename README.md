@@ -8,7 +8,7 @@ A simple Python script that tracks the price of a product from an e-commerce sit
 
 ## 📌 Features 
 
-- Web scrapes product title and price
+- Web scrapes product title and price.   
 - Stores historical prices in a CSV file
 - Visualizes price trends with Matplotlib
 - Prints a price drop alert if conditions are met
