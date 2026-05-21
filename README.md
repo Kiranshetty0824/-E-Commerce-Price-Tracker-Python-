@@ -1,7 +1,7 @@
          #  -E-Commerce-Price-Tracker-Python-
    E-Commerce Price Tracker (Python).    
      
-✅ README.md – Price Tracker 
+✅ README.md – Price Tracker  
 # 💰 Product Price Tracker.  
 
 A simple Python script that tracks the price of a product from an e-commerce site, logs the price history to a CSV file, and generates a price trend graph. An alert is printed if the price drops below a specified threshold.
