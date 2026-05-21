@@ -14,7 +14,7 @@ A simple Python script that tracks the price of a product from an e-commerce sit
 - Prints a price drop alert if conditions are met
 
 ## 🔧 Requirements  
-
+    
 Make sure you have Python 3 installed. Install the required Python libraries:
 
 ```bash
